@@ -1,8 +1,17 @@
+html {
+  font-family: georgia, sans-serif;
+}
+
+.statement {
+  color: #1f2179;
+  margin: 0 2em;
+}
+
 .ul1 {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: var(--color-primary);
+  background-color:#1f2179;
   overflow: hidden;
   position: -webkit-sticky; /* Safari */
   position: sticky;
