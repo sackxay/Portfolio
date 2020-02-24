@@ -8,7 +8,7 @@ html {
   margin: 2em 2em;
 }
 
-li {
+li a {
   color: #fff;
   text-decoration: none;
 }
