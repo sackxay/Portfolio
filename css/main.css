@@ -41,6 +41,10 @@ li {
   border-radius: 10px;
 }
 
+ a img:hover{
+   background-color: #1f2179;
+}
+
 .navstate:hover, .navstate:active {
   background: #28a745;
 }
