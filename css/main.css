@@ -8,6 +8,10 @@ html {
   margin: 2em 2em;
 }
 
+.grey {
+  background-color: #323A46;
+}
+
 li a {
   color: #fff;
   text-decoration: none;
@@ -127,4 +131,15 @@ p a{
 /* Page content */
 .content {
   padding: 16px;
+}
+
+.btn {
+  background-color: #ee6666;
+  border-color: #ee6666;
+}
+
+.btn:hover {
+  background-color: #c5f5cb;
+  border-color: #c5f5cb;
+  color: #000;
 }
